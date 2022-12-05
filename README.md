@@ -21,7 +21,7 @@ I'm a passionate, creative, and hardworking full stack web developer 5 years plu
 
 ## Developer Summary: Languages:
 <ul>
-    <li> JavaScript (ES6, React, Redux)</li>
+    <li> JavaScript (ES6, React, Redux, Typescript)</li>
     <li> HTML5</li>
     <li> CSS3/SCSS</li>
     <li> Python</li>
