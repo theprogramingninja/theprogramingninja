@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-I'm a passionate, creative, and hardworking full stack web developer 5 years plus’ experience. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
+I'm a codeholic, creative, and hardworking full stack web developer 5 years plus’ experience. Open to handling any challenge in my way, I can make your website beautiful and fully functional. Experience in static, dynamic, and CMS websites. I have a strong background in front-end, back-end and project management. I have a deep understanding of technologies, platforms and approaches required to build a quality digital solution
 
 ## My Skills/Services include, but are not limited to:
 <ul>
